@@ -1,4 +1,4 @@
-# Whovians
+# Dice Game
 
 :exclamation: WARNING: This project still under newly development. :exclamation:
 
